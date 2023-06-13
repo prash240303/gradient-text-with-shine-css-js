@@ -57,6 +57,9 @@
     display: inline-block;
     position: relative;
   }
+  h1{
+    font-size: 30px;
+  }
   
   h1 > .magic > .magic-star {
     --size: clamp(15px, 0.7vw, 25px);
