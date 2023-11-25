@@ -85,23 +85,23 @@
   
   h1 > .magic > .magic-text {
 /*     animation: background-pan 3s linear infinite;
-    color: #fff;
-    background-size: 200%;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    white-space: nowrap; */
-
-      background: linear-gradient(
+        background: linear-gradient(
       to right,
       var(--purple),
       var(--violet),
       var(--pink),
       var(--purple)
     );
+    color: #fff;
     background-size: 200%;
     background-clip: text;
     -webkit-text-fill-color: transparent;
-    white-space: nowrap;
+    white-space: nowrap; */
+  background: -webkit-linear-gradient(var(--purple), var(--violet), var(--pink), var(--purple));
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  white-space: nowrap;
   }
   
  
