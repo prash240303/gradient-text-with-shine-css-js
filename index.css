@@ -98,7 +98,7 @@
     -webkit-text-fill-color: transparent;
     white-space: nowrap; */
       animation: background-pan 3s linear infinite;
-  background: -webkit-linear-gradient(to right, var(--purple), var(--violet), var(--pink), var(--purple));
+  background: -webkit-linear-gradient( var(--purple), var(--violet), var(--pink), var(--purple));
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
