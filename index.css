@@ -84,12 +84,12 @@
   }
   
   h1 > .magic > .magic-text {
-    animation: background-pan 3s linear infinite;
+/*     animation: background-pan 3s linear infinite;
     color: #fff;
     background-size: 200%;
     background-clip: text;
     -webkit-text-fill-color: transparent;
-    white-space: nowrap;
+    white-space: nowrap; */
   }
   
  
