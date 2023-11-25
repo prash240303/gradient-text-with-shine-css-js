@@ -85,7 +85,7 @@
   
   h1 > .magic > .magic-text {
     animation: background-pan 3s linear infinite;
- 
+    color:white;
     background-size: 200%;
     background-clip: text;
     -webkit-text-fill-color: transparent;
